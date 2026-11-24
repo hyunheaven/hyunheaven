@@ -25,9 +25,12 @@ I'm a semiconductor device engineer working on advanced logic transistor technol
 
 ## Selected Publications
 
-1. **Hyeongrak Lim**, *et al.*, “[Uniaxially Compressively Strained Ge (100)-OI p-MOSFET for High-Performance CFET](https://doi.org/10.1109/TED.2026.3700588),” *IEEE Transactions on Electron Devices*, 2026.
-2. **Hyeongrak Lim**, *et al.*, “[Heterogeneous 3-D Sequential CFET With Strain-Engineered Ge (100) Top-Channel pMOSFET on Bulk Si (100) nMOSFET](https://doi.org/10.1109/TED.2025.3574116),” *IEEE Transactions on Electron Devices*, 2025.
-3. Seong Kwang Kim, **Hyeong-Rak Lim**, *et al.*, “[Heterogeneous 3-D Sequential CFETs With Ge (110) Nanosheet p-FETs on Si (100) Bulk n-FETs](https://doi.org/10.1109/TED.2023.3331669),” *IEEE Transactions on Electron Devices*, 2024.
+1. **First author** · **Hyeongrak Lim**, *et al.*, “[Uniaxially Compressively Strained Ge (100)-OI p-MOSFET for High-Performance CFET](https://doi.org/10.1109/TED.2026.3700588),” *IEEE Transactions on Electron Devices*, **73**(7), 4250–4256 (2026). DOI: `10.1109/TED.2026.3700588`.
+2. **Co-first author** · **Youngkeun Park†, Hyeongrak Lim†**, *et al.*, “[High-Performance Heterogeneous 3-D Sequential CFETs Using Pulsed Green Laser Annealing](https://doi.org/10.1109/TED.2025.3635625),” *IEEE Transactions on Electron Devices*, **73**(1), 44–50 (2026). DOI: `10.1109/TED.2025.3635625`.
+3. **First author** · **Hyeongrak Lim**, *et al.*, “[Heterogeneous 3-D Sequential CFET With Strain-Engineered Ge (100) Top-Channel pMOSFET on Bulk Si (100) nMOSFET](https://doi.org/10.1109/TED.2025.3574116),” *IEEE Transactions on Electron Devices*, **72**(7), 3422–3428 (2025). DOI: `10.1109/TED.2025.3574116`.
+4. **First author** · **Hyeong-Rak Lim**, *et al.*, “[Impact of Bottom-Gate Biasing on Implant-Free Junctionless Ge-on-Insulator n-MOSFETs](https://doi.org/10.1109/LED.2019.2931410),” *IEEE Electron Device Letters*, **40**(9), 1362–1365 (2019). DOI: `10.1109/LED.2019.2931410`.
+
+† Equal first-author contribution.
 
 **[Full publication record and authorship details →](PUBLICATIONS.md)**  
 The bibliography tracks the author-name variants **Hyeongrak Lim / Hyeong-Rak Lim** and lists all coauthors and verified corresponding authors.
