@@ -1,4 +1,4 @@
-# Hyeongrak Lim, Ph.D.
+# Hyeongrak Lim Lab for Fundamental Electron Devices
 
 **Semiconductor Device Engineer · Samsung Electronics**  
 **Ph.D. in Electrical Engineering · KAIST (2026)**
